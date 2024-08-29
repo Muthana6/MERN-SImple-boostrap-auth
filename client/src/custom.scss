@@ -1,0 +1,7 @@
+/* custom-bootstrap.scss */
+
+/* Override Bootstrap's primary color */
+$primary: purple;
+
+/* Import Bootstrap's full Sass */
+@import 'bootstrap/scss/bootstrap';
